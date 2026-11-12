@@ -9,7 +9,7 @@ All associated data from these assemblies will be hosted on AWS through their [R
 Assemblies are generated using either Verkko or hifiasm, incorporating:
 - PacBio HiFi data
 - Oxford Nanopore (ONT) data
-- (optional) Chromatin conformation capture data (Omni-C or Pore-C)
+- Chromatin conformation capture data (Omni-C or Pore-C; optional)
 
 Assemblies where then optionally repaired with AssemblyRepairer to correct errors in the genome assemblies.
 
